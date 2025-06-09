@@ -14,13 +14,13 @@
 
 ---
 
-🎓 Atualmente estou no **4º semestre de Ciência da Computação** na Anhanguera – Taubaté.  
-💡 Apaixonada por tecnologia, com foco em **Front-end**, **Back-end** e **Segurança da Informação**.
+🎓 Atualmente, estou no **4º semestre de Ciência da Computação** na Anhanguera – Taubaté.  
+💡 Sou apaixonada por tecnologia, com foco em **Front-end**, **Back-end** e **Segurança da Informação**.
 
-📚 No tempo livre, gosto de:
-- Estudar novas linguagens e frameworks
-- Resolver desafios de lógica
-- Participar de projetos colaborativos
+📚 No meu tempo livre, gosto de:
+- Estudar novas linguagens e frameworks  
+- Resolver desafios de lógica  
+- Participar de projetos colaborativos  
 - Aprender sobre cibersegurança
 
 ---
@@ -44,8 +44,8 @@
 
 ### 📌 Repositórios em Destaque
 
-- 🔐 [**PromoVale** – Projeto de Segurança e Validação](https://github.com/Madusousa23/PromoVale)  
-- 📊 [**Agência de Viagens** – Sistema com Front + Dados](https://github.com/Madusousa23/Ag-ncia_Viagens)
+- 🔐 [**PromoVale** – Projeto de segurança e validação](https://github.com/Madusousa23/PromoVale)  
+- 📊 [**Agência de Viagens** – Sistema com front-end e dados](https://github.com/Madusousa23/Ag-ncia_Viagens)
 
 ---
 
