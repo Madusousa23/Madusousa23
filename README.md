@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Madusousa23/Madusousa23/main/assets/maria-ilustracao.png" alt="Maria avatar" height="200">
+  <img src="https://github.com/Madusousa23/Madusousa23/blob/main/madu.ilustra%C3%A7%C3%A3o.png" alt="Maria avatar" height="200">
+
 </p>
 
 ---
