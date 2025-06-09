@@ -21,7 +21,6 @@
 - Estudar novas linguagens e frameworks  
 - Resolver desafios de lógica  
 - Participar de projetos colaborativos  
-- Aprender sobre cibersegurança
 
 ---
 
@@ -35,10 +34,9 @@
 
 ### 🌱 Atualmente aprendendo
 
-- 🐍 Python avançado  
+- 🐍 Python 
 - 🌐 Desenvolvimento Web  
-- 🔐 Fundamentos de Back-end  
-- ☁️ Conceitos de Cloud e Segurança  
+- 🔐 Fundamentos de Back-end   
 
 ---
 
