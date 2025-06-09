@@ -1,61 +1,75 @@
-<h1 align="center">Oi, eu sou a Maria Eduarda 👋🏽</h1>
+<h1 align="center">👋🏽 Oi, eu sou a Maria Eduarda!</h1>
 
 <p align="center">
-  <strong>Desenvolvedora em formação | Estudante de Ciência da Computação</strong>
+  <strong>💻 Desenvolvedora em formação | 🎓 Estudante de Ciência da Computação</strong>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Madusousa23/Madusousa23/blob/main/madu.ilustra%C3%A7%C3%A3o.png" alt="Maria avatar" height="200">
+  <img src="https://github.com/Madusousa23/Madusousa23/blob/main/madu.ilustração.png" alt="Maria avatar" height="200">
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=435&lines=Bem-vindo(a)+ao+meu+GitHub!;Apaixonada+por+tecnologia!;Vamos+construir+algo+incrível!+" alt="Typing SVG">
 </p>
 
 ---
 
-🎓 Atualmente estou cursando o **4º semestre de Ciência da Computação** na Anhanguera – Taubaté. Sou apaixonada por tecnologia, principalmente por áreas como **Front-end** e **Back-end**.
+🎓 Atualmente estou no **4º semestre de Ciência da Computação** na Anhanguera – Taubaté.  
+💡 Apaixonada por tecnologia, com foco em **Front-end**, **Back-end** e **Segurança da Informação**.
 
-💻 No meu tempo livre, gosto de estudar novas linguagens, resolver desafios de lógica e participar de projetos que me ajudem a evoluir como profissional e como pessoa.
-
----
-
-### 🚀 Tecnologias e Ferramentas que utilizo:
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+📚 No tempo livre, gosto de:
+- Estudar novas linguagens e frameworks
+- Resolver desafios de lógica
+- Participar de projetos colaborativos
+- Aprender sobre cibersegurança
 
 ---
 
-### 🌱 Atualmente aprendendo:
+### 🚀 Tecnologias e Ferramentas
 
-- Python
-- Desenvolvimento Web
-- Fundamentos Back-end
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,php,java,mysql,azure,powerbi,vscode,git,github" alt="Tecnologias" />
+</p>
+
+---
+
+### 🌱 Atualmente aprendendo
+
+- 🐍 Python avançado
+- 🌐 Desenvolvimento Web
+- 🔐 Fundamentos de Back-end
+- ☁️ Conceitos de Cloud e Segurança
 
 ---
 
 ### 📌 Repositórios em Destaque
 
-- [🔐 PromoVale](https://github.com/Madusousa23/PromoVale)
-- [📊 Agência de Viagens](https://github.com/Madusousa23/Ag-ncia_Viagens)
+- 🔐 [**PromoVale** – Projeto de Segurança e Validação](https://github.com/Madusousa23/PromoVale)  
+- 📊 [**Agência de Viagens** – Sistema com Front + Dados](https://github.com/Madusousa23/Ag-ncia_Viagens)
 
 ---
 
 ### 📫 Onde me encontrar:
 
-- ✉️ Email: msousa1775@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/maria-eduarda-santos-tecnologia)
+<p align="center">
+  <a href="mailto:msousa1775@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/maria-eduarda-santos-tecnologia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
 ### 💜 Versículo do dia:
 
-> **"Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento."**  
-> _Provérbios 3:5_
+> _"Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento."_  
+> **Provérbios 3:5**
 
 ---
 
-✨ Obrigada por visitar meu perfil!
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Coding gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Code">
+</p>
+
+---
+
+✨ Obrigada por visitar meu perfil! Vamos nos conectar! 💬
