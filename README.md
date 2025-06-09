@@ -1,4 +1,4 @@
-<h1 align="center">👋🏽 Oi, eu sou a Maria Eduarda!</h1>
+<h1 align="center">🙋🏽‍♀️ Bem-vindo ao meu GitHub!</h1>
 
 <p align="center">
   <strong>💻 Desenvolvedora em formação | 🎓 Estudante de Ciência da Computação</strong>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=435&lines=Bem-vindo(a)+ao+meu+GitHub!;Apaixonada+por+tecnologia!;Vamos+construir+algo+incrível!+" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=435&lines=Apaixonada+por+tecnologia!;Vamos+construir+algo+incrível!+" alt="Typing SVG">
 </p>
 
 ---
@@ -28,17 +28,17 @@
 ### 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,php,java,mysql,azure,powerbi,vscode,git,github" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,azure,mysql,git,github,trello,wordpress" alt="Tecnologias" />
 </p>
 
 ---
 
 ### 🌱 Atualmente aprendendo
 
-- 🐍 Python avançado
-- 🌐 Desenvolvimento Web
-- 🔐 Fundamentos de Back-end
-- ☁️ Conceitos de Cloud e Segurança
+- 🐍 Python avançado  
+- 🌐 Desenvolvimento Web  
+- 🔐 Fundamentos de Back-end  
+- ☁️ Conceitos de Cloud e Segurança  
 
 ---
 
@@ -52,8 +52,12 @@
 ### 📫 Onde me encontrar:
 
 <p align="center">
-  <a href="mailto:msousa1775@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/maria-eduarda-santos-tecnologia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:msousa1775@gmail.com?subject=Olá%20Maria!&body=Gostaria%20de%20saber%20mais%20sobre%20seus%20projetos%20no%20GitHub.">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/maria-eduarda-santos-tecnologia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -66,10 +70,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Coding gif">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Code">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+Obrigada+por+visitar+meu+perfil!+Vamos+nos+conectar!+💬" alt="Typing Goodbye">
 </p>
-
----
-
-✨ Obrigada por visitar meu perfil! Vamos nos conectar! 💬
