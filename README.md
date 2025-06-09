@@ -15,7 +15,7 @@
 ---
 
 🎓 Atualmente, estou no **4º semestre de Ciência da Computação** na Anhanguera – Taubaté.  
-💡 Sou apaixonada por tecnologia, com foco em **Front-end**, **Back-end** e **Segurança da Informação**.
+💡 Sou apaixonada por tecnologia, com foco em **Front-end**, **Back-end**.
 
 📚 No meu tempo livre, gosto de:
 - Estudar novas linguagens e frameworks  
@@ -51,17 +51,8 @@
 
 ### 📫 Onde me encontrar:
 
-<p align="center">
-  <a href="mailto:msousa1775@gmail.com" style="text-decoration:none; color:inherit;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="25" style="vertical-align:middle;" />  
-    <span style="vertical-align:middle; margin-left: 8px;">msousa1775@gmail.com</span>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/maria-eduarda-santos-tecnologia" target="_blank" style="text-decoration:none; color:inherit;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" style="vertical-align:middle;" />  
-    <span style="vertical-align:middle; margin-left: 8px;">Maria Eduarda no LinkedIn</span>
-  </a>
-</p>
+- ✉️ [msousa1775@gmail.com](mailto:msousa1775@gmail.com)  
+- 💼 [Maria Eduarda no LinkedIn](https://www.linkedin.com/in/maria-eduarda-santos-tecnologia)
 
 ---
 
