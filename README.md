@@ -34,8 +34,7 @@
 
 ### 🌱 Atualmente aprendendo
 
-- 🐍 Python 
-- 🌐 Desenvolvimento Web  
+- ☕ Java 
 - 🔐 Fundamentos de Back-end   
 
 ---
