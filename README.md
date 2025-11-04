@@ -16,9 +16,10 @@
 
 ### 🚀 Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,azure,mysql,git,github,trello,wordpress" alt="Technologies" style="vertical-align: middle;" />
-</p>
+<p>
+I'm a Computer Science student and aspiring software developer passionate about creating technology that makes a difference. I love building meaningful projects that combine functionality, design, and purpose. Some technologies I enjoy working with include Python, JavaScript, HTML, CSS, and SQL.
+
+I’m especially interested in back-end development, data management, and cybersecurity, and I’m always eager to learn new tools and frameworks that help me grow as a developer. Beyond coding, I believe technology should empower people and create positive impact — that’s what truly inspires me to keep learning and building. ✨</p>
 
 
 ### 📌 Featured Repositories
