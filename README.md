@@ -14,30 +14,12 @@
 
 ---
 
-🎓 I’m currently in my **4th semester of Computer Science** at Anhanguera University – Taubaté.  
-💡 I’m passionate about technology, with growing experience in **Front-end** and **Back-end** development.
-
-📚 In my free time, I enjoy:
-- Learning new programming languages and frameworks  
-- Solving logic and algorithm challenges  
-- Contributing to collaborative projects  
-
----
-
 ### 🚀 Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,html,css,azure,mysql,git,github,trello,wordpress" alt="Technologies" style="vertical-align: middle;" />
 </p>
 
----
-
-### 🌱 Currently Learning
-
-- ☕ Java  
-- 🔐 Back-end Fundamentals  
-
----
 
 ### 📌 Featured Repositories
 
