@@ -14,7 +14,6 @@
 
 ---
 
-### 🚀 Technologies & Tools
 
 <p>
 I'm a Computer Science student and aspiring software developer passionate about creating technology that makes a difference. I love building meaningful projects that combine functionality, design, and purpose. Some technologies I enjoy working with include Python, JavaScript, HTML, CSS, and SQL.
