@@ -1,7 +1,7 @@
 <h1 align="center">🙋🏽‍♀️ Welcome to my GitHub!</h1>
 
 <p align="center">
-  <strong>💻 Developer in Training | 🎓 Computer Science Student</strong>
+  <strong>💻Web Design | UX UI | 🎓 Computer Science Student</strong>
 </p>
 
 <p align="center">
