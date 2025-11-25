@@ -21,13 +21,6 @@ I'm a Computer Science student and aspiring software developer passionate about 
 I’m especially interested in back-end development, data management, and cybersecurity, and I’m always eager to learn new tools and frameworks that help me grow as a developer. Beyond coding, I believe technology should empower people and create positive impact — that’s what truly inspires me to keep learning and building. ✨</p>
 
 
-### 📌 Featured Repositories
-
-- 🔐 [**PromoVale** – Security and Validation Project](https://github.com/Madusousa23/PromoVale)  
-- 📊 [**Travel Agency** – Front-end and Data Management System](https://github.com/Madusousa23/Ag-ncia_Viagens)  
-
----
-
 ### 📫 How to Reach Me
 
 - ✉️ [msousa1775@gmail.com](mailto:msousa1775@gmail.com)  
