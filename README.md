@@ -1,40 +1,117 @@
-<h1 align="center">🙋🏽‍♀️ Welcome to my GitHub!</h1>
+<div align="center">
 
-<p align="center">
-  <strong>💻Web Design | UX UI | 🎓 Computer Science Student</strong>
-</p>
+<!-- Banner degradê neon -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:8A2BE2,100:00D9FF&height=280&section=header&text=Maria%20Eduarda%20Santos&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Software%20Developer%20Intern%20%40%20LG%20Electronics&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://github.com/Madusousa23/Madusousa23/blob/main/madu.ilustração.png" alt="Maria avatar" height="200">
-</p>
+<!-- GIF de código/tecnologia -->
+<img src="https://raw.githubusercontent.com/mishakav/mishakav/main/dev.gif" width="450"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=435&lines=Passionate+about+technology!;Let's+build+something+amazing!+" alt="Typing SVG">
-</p>
+<br/>
 
----
+<!-- Typing animation -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=D400FF&center=true&vCenter=true&width=650&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%92%BB;Estagi%C3%A1ria+de+Desenvolvimento+%40+LG+Electronics;Apaixonada+por+Automa%C3%A7%C3%A3o+%26+Software+Engineering;Sempre+aprendendo+algo+novo+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:8A2BE2,100:FF00E5&height=3&width=100%"/>
+
+## 👩‍💻 Sobre mim
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pft6/giphy.gif" width="280"/>
+
+```yaml
+maria_eduarda:
+  cargo: "Estagiária de Desenvolvimento de Software"
+  empresa: "LG Electronics"
+  formacao: "Ciência da Computação"
+  foco_atual:
+    - "Automação de processos"
+    - "Engenharia de Software"
+    - "Desenvolvimento Web"
+    - "Web Design"
+  motivacao: "Construir soluções que unem eficiência e boa experiência"
+```
+
+🔭 Atualmente aprofundando conhecimentos em **automação** e **engenharia de software**  
+🌐 Interesse em unir **backend robusto** com **web design moderno**  
+⚡ Sempre em busca de novos desafios técnicos  
+📫 Aberta a conexões, trocas de conhecimento e oportunidades
+
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:8A2BE2,100:00D9FF&height=3&width=100%"/>
+
+## 🚀 Áreas de Interesse
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-FF00E5?style=for-the-badge&logo=zapier&logoColor=white"/>
+<img src="https://img.shields.io/badge/Engenharia%20de%20Software-8A2BE2?style=for-the-badge&logo=codefactor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Desenvolvimento%20de%20Software-00D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20Design-FF00E5?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:8A2BE2,100:FF00E5&height=3&width=100%"/>
+
+## 💜 Linguagens de Programação
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,php,laravel,html,css,nodejs&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FF00E5?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-00D9FF?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-8A2BE2?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-00D9FF?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:8A2BE2,100:00D9FF&height=3&width=100%"/>
+
+## 🛠️ Ferramentas & Plataformas
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Genesys%20Cloud-FF00E5?style=for-the-badge&logo=genesys&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/n8n-8A2BE2?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-00D9FF?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-8A2BE2?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:8A2BE2,100:FF00E5&height=3&width=100%"/>
 
 
-<p>
-I'm a Computer Science student and aspiring software developer passionate about creating technology that makes a difference. I love building meaningful projects that combine functionality, design, and purpose. Some technologies I enjoy working with include Python, JavaScript, HTML, CSS, and SQL.
+## 🌐 Conecte-se comigo
 
-I’m especially interested in back-end development, data management, and cybersecurity, and I’m always eager to learn new tools and frameworks that help me grow as a developer. Beyond coding, I believe technology should empower people and create positive impact — that’s what truly inspires me to keep learning and building. ✨</p>
+<div align="center">
 
+<a href="https://www.linkedin.com/in/maria-eduarda-santos-tecnologia/"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Madusousa23"><img src="https://img.shields.io/badge/GitHub-FF00E5?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-### 📫 How to Reach Me
+</div>
 
-- ✉️ [msousa1775@gmail.com](mailto:msousa1775@gmail.com)  
-- 💼 [Maria Eduarda on LinkedIn](https://www.linkedin.com/in/maria-eduarda-santos-tecnologia)  
+<br/>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:8A2BE2,100:FF00E5&height=150&section=footer"/>
+</div>
 
-### 💜 Verse of the Day
-
-> _"Trust in the Lord with all your heart and lean not on your own understanding."_  
-> **Proverbs 3:5**
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=750&lines=✨+Thank+you+for+visiting+my+profile!+Let's+connect!+💬" alt="Typing Goodbye">
-</p>
+<div align="center">
+<sub>✨ Feito com dedicação por <b>Maria Eduarda Santos</b> ✨</sub>
+</div>
