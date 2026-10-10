@@ -17,11 +17,9 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:8A2BE2,100:FF00E5&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:8A2BE2,100:FF00E5&height=6&width=1000" width="100%"/>
 
 ## 👩‍💻 Sobre mim
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pft6/giphy.gif" width="280"/>
 
 ```yaml
 maria_eduarda:
@@ -31,7 +29,8 @@ maria_eduarda:
   foco_atual:
     - "Automação de processos"
     - "Engenharia de Software"
-    - "Desenvolvimento Web"
+    - "Desenvolvimento back-end"
+     " Genesys Cloud"
     - "Web Design"
   motivacao: "Construir soluções que unem eficiência e boa experiência"
 ```
@@ -41,9 +40,7 @@ maria_eduarda:
 ⚡ Sempre em busca de novos desafios técnicos  
 📫 Aberta a conexões, trocas de conhecimento e oportunidades
 
-<br clear="right"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:8A2BE2,100:00D9FF&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:8A2BE2,100:00D9FF&height=6&width=1000" width="100%"/>
 
 ## 🚀 Áreas de Interesse
 
@@ -56,7 +53,7 @@ maria_eduarda:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:8A2BE2,100:FF00E5&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:8A2BE2,100:FF00E5&height=6&width=1000" width="100%"/>
 
 ## 💜 Linguagens de Programação
 
@@ -70,14 +67,13 @@ maria_eduarda:
 <img src="https://img.shields.io/badge/JavaScript-FF00E5?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-00D9FF?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-8A2BE2?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-00D9FF?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:8A2BE2,100:00D9FF&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:8A2BE2,100:00D9FF&height=6&width=1000" width="100%"/>
 
 ## 🛠️ Ferramentas & Plataformas
 
@@ -86,7 +82,6 @@ maria_eduarda:
 <img src="https://img.shields.io/badge/Genesys%20Cloud-FF00E5?style=for-the-badge&logo=genesys&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<br/>
 <img src="https://img.shields.io/badge/n8n-8A2BE2?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-00D9FF?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -94,22 +89,20 @@ maria_eduarda:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:8A2BE2,100:FF00E5&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:8A2BE2,100:FF00E5&height=6&width=1000" width="100%"/>
 
+## 🌐 Conecte-se comigo
 
 ## 🌐 Conecte-se comigo
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/maria-eduarda-santos-tecnologia/"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Madusousa23"><img src="https://img.shields.io/badge/GitHub-FF00E5?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:8A2BE2,100:FF00E5&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:8A2BE2,100:FF00E5&height=150&section=footer" width="100%"/>
 </div>
 
 <div align="center">
