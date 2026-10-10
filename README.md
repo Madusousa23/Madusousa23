@@ -91,7 +91,6 @@ maria_eduarda:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:8A2BE2,100:FF00E5&height=6&width=1000" width="100%"/>
 
-## 🌐 Conecte-se comigo
 
 ## 🌐 Conecte-se comigo
 
