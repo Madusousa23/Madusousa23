@@ -9,15 +9,6 @@
 <br/>
 
 <!-- Typing animation -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=D400FF&center=true&vCenter=true&width=650&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%92%BB;Estagi%C3%A1ria+de+Desenvolvimento+%40+LG+Electronics;Apaixonada+por+Automa%C3%A7%C3%A3o+%26+Software+Engineering;Sempre+aprendendo+algo+novo+%E2%9C%A8" alt="Typing SVG" />
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:8A2BE2,100:FF00E5&height=3&width=100%"/>
 
 ## 👩‍💻 Sobre mim
 
